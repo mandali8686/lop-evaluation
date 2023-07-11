@@ -1,0 +1,32 @@
+.data-table {
+    width: 100%; /* This makes the table take up the full width of its container */
+    overflow-x: auto; /* This will add a horizontal scrollbar if the content is wider than the table */
+}
+
+.data-table th, 
+.data-table td {
+    padding: 10px; /* This adds some space around the text in each table cell */
+    text-align: left; /* This aligns the text to the left of each cell */
+    border: 1px solid #ddd; /* This adds a border around each cell */
+}
+
+.data-table th {
+    background-color: #4CAF50; /* This sets the background color of the header cells */
+    color: white; /* This sets the text color of the header cells */
+}
+
+.datalink{
+    width: 70%;
+    margin: 0 auto;  
+}
+.data-container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.data-links, .focus-group {
+    flex-basis: 45%;  /* adjust this as needed */
+}
+
