@@ -10,9 +10,14 @@
   }
   
   .survey-links,
+  .focus-group,
   .literature {
-    width: 45%;
+    width: 30%;
     padding: 20px;
+  }
+
+  .survey-links h4{
+    color:rgb(90, 91, 89);
   }
   
   

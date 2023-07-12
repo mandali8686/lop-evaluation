@@ -10,3 +10,9 @@
   .title{
     text-align: center;
   }
+
+  h3{
+    width: 95%;
+    background-color: blanchedalmond;
+    padding: 16px;
+  }

@@ -16,9 +16,15 @@ function Background() {
     <div className='background'>
       <br></br>
       <h2>Background & Key Milestones</h2>
-      <br></br>
+      
       <br></br>
       <div className='slides'>
+        <h3>LOP/MLO Project Revision</h3>
+        <a href='https://docs.google.com/presentation/d/1Q_FozjdBeWT4hWSyCcrijL6AebfGYPhj/edit?usp=sharing&ouid=110580296038753455992&rtpof=true&sd=true'>Key Decision - 
+link side: Guidance from Dean Camilla Benbow, April 2023, April 2023
+</a>
+<br></br>
+<br></br>
       <Carousel autoPlay interval={5000} infiniteLoop useKeyboardArrows dynamicHeight>
                 <div style={{border: "2px solid black"}}>
                     <img src={slide1} alt="Slide 1"/>
@@ -37,7 +43,12 @@ function Background() {
       </div>
       <br></br>
       <br></br>
+      <h3>Project Plan</h3>
+      <h4>(Project plan Last updated feb 2023)</h4>
+      <a href='https://docs.google.com/document/d/1Ys1iMCdxHbbHs8bLGQ68wPxxiw2UZ_mz/edit?usp=sharing&ouid=110580296038753455992&rtpof=true&sd=true'>Project Plan Spring Semester, 2023</a>
+      <br></br><br></br>
       <div className='title'>
+
       <p><strong>Project Plan - Strategic Direction</strong></p>
 <p><strong>Leadership and Organizational Performance (LOP) and Leading Organizations (MLO)</strong></p>
 <p><br></br></p>
