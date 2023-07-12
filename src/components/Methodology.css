@@ -3,4 +3,16 @@
     margin: 0 auto;  /* This centers the section */
     
   }
+  .survey-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+  }
+  
+  .survey-links,
+  .literature {
+    width: 45%;
+    padding: 20px;
+  }
+  
   

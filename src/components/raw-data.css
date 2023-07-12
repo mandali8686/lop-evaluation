@@ -26,7 +26,7 @@
     justify-content: space-between;
 }
 
-.data-links, .focus-group {
-    flex-basis: 45%;  /* adjust this as needed */
+.data-links, .focus-group, .competitors {
+    flex-basis: 30%;  /* adjust this as needed */
 }
 
