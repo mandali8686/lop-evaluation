@@ -24,4 +24,11 @@
     background-color: silver;
     padding: 10px;
     border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
   }
+
+  .go button:hover {
+    background-color: darkgrey; /* change button color on hover */
+    transform: scale(1.1); /* scale button on hover */
+}
