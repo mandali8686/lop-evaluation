@@ -1,0 +1,12 @@
+.background {
+    width: 60%;
+    margin: 0 auto;  /* This centers the section */
+  }
+
+  .big-graph{
+    max-width: 100%;
+  }
+
+  .title{
+    text-align: center;
+  }
