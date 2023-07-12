@@ -20,4 +20,8 @@
     color:rgb(90, 91, 89);
   }
   
-  
+  .go button{
+    background-color: silver;
+    padding: 10px;
+    border-radius: 10px;
+  }
