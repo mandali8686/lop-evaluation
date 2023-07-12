@@ -44,7 +44,7 @@ link side: Guidance from Dean Camilla Benbow, April 2023, April 2023
       <br></br>
       <br></br>
       <h3>Project Plan</h3>
-      <h4>(Project plan Last updated feb 2023)</h4>
+      <h4>(Project Plan Last Updated Feb, 2023)</h4>
       <a href='https://docs.google.com/document/d/1Ys1iMCdxHbbHs8bLGQ68wPxxiw2UZ_mz/edit?usp=sharing&ouid=110580296038753455992&rtpof=true&sd=true'>Project Plan Spring Semester, 2023</a>
       <br></br><br></br>
       <div className='title'>
