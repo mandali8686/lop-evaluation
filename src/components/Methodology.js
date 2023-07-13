@@ -9,6 +9,10 @@ function Methodology() {
   return (
     <div className='methodology'>
       <h2>Methodology</h2>
+      <h3>Overview of Data Gathering Methodology</h3>
+      <a href='https://docs.google.com/document/d/1XZPcor0d4WSwANKYdDPfdXabTgMKTP26/edit?usp=sharing&ouid=110580296038753455992&rtpof=true&sd=true'>Survey Methodology Context and Results</a>
+      <br></br><br></br>
+      <br></br>
       <div className='survey-container'>
       <div className='survey-links'>
         

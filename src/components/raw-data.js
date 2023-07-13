@@ -63,7 +63,7 @@ function RawData() {
                 <a href='https://docs.google.com/document/d/10Dm5NrqbJ7Zwn02cHWB5oFuMYm37m3zf/edit?usp=sharing&ouid=110580296038753455992&rtpof=true&sd=true'>Focus Group 5 Raw Data</a>
 
             </div>
-            <div className='Competitors'>
+            <div className='competitors'>
                 <h3>Competitors</h3>
                 <a href='https://docs.google.com/spreadsheets/d/1yeOua1Wby5PjugI6paL9R6okGivuvgLZVoE7302dHjA/edit?usp=sharing'>Competitors and Core Courses</a>
                 <br></br>
