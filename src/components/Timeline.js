@@ -6,6 +6,7 @@ function Timeline() {
 
 const navigate = useNavigate();
   return (
+    <div className='timeline-container'>
     <div className="timeline">
 
       <div className="timeline-item">
@@ -24,7 +25,19 @@ const navigate = useNavigate();
         <button onClick={() => navigate('/background')}>Go to Background & Key Milestones</button>
 
         </div>
+        
       </div>
+      <div className="timeline-item">
+        <h3>Preliminary Recommendations</h3>
+        <br></br>
+        <br></br>
+        <div className='square'>
+        <button onClick={() => navigate('/preliminary')}>Go to Preliminary Recommendations</button>
+
+        </div>
+        
+      </div>
+      
       <div className="timeline-item">
         <h3>Methodology</h3>
         <br></br>
@@ -70,6 +83,7 @@ const navigate = useNavigate();
       
         </div>
         </div>
+    </div>
     </div>
   );
 }

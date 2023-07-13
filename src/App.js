@@ -9,6 +9,7 @@ import Graphs from './components/Graphs';
 import { IoIosHome, IoIosArrowUp } from "react-icons/io"; // import Home and ArrowUp icons
 import ScrollToTop from 'react-scroll-up';
 import Background from './components/background';
+import Preliminary from './components/preliminary';
 
 
 
@@ -34,6 +35,7 @@ function App() {
           <Route path="/raw-data" element={<RawData />} />
           <Route path="/graphs" element={<Graphs />} />
           <Route path="/background" element={<Background />} />
+          <Route path='/preliminary' element={<Preliminary />} />
           
         </Routes> 
         <Timeline />
