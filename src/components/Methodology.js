@@ -54,6 +54,7 @@ function Methodology() {
       </div>
 <div className='focus-group'>
       <h3>Focus Group</h3>
+      <p>Gregg DiNardo & Jeremy Speikes will provide additional information regarding focus groups after dissertation defense on July 28.</p>
       </div>
       </div>
       <br></br>
