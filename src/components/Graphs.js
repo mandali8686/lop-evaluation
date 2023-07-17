@@ -20,6 +20,8 @@ function Graphs() {
             <div className='description'>
                 <p>The following graph illustrates the average percentage representation of each competency, derived from the amalgamation of responses across the three datasets. This visualization provides an understanding of the average prevalence of each competency, highlighting their relative importance as perceived by the respondents.</p>
             </div>
+            <p className='title'>    All: What competencies did you aquire in LOP/MLO program?</p>
+      
             <img className="big-graph" src={`${process.env.PUBLIC_URL}/comp3.png`} alt="Graph 3" />
             <div className='description'>
             <h3>Weakness</h3>
@@ -38,6 +40,8 @@ function Graphs() {
                 <p>The following graph illustrates the average percentage representation of each competency, derived from the amalgamation of responses across the three datasets. This visualization provides an understanding of the average prevalence of each lacking competency, highlighting their relative importance as perceived by the respondents.</p>
             </div>
             
+            <p className='title'> All: What competencies did not provided that you are lacking in LOP/MLO program?</p>
+      
             <img className="big-graph" src={`${process.env.PUBLIC_URL}/nocomp3.png`} alt="Graph 6" />
 
             <div className='description'>

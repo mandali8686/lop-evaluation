@@ -61,6 +61,8 @@ function ExecutiveSummary() {
       <p>Combined input from LOP and MLO survey participants highlighted competencies we need to continue providing. The top three are: dealing with ambiguity; (25%) building effective teams (15.62%) and strategic agility (12.50%). Lower rated competencies, particularly those with 3% ratings, also appear in the weaknesses section that follows. Strengths participants identified vary slightly by program.</p>
       <p>LOP: Top competencies identified: dealing with ambiguity, building effective teams, and strategic agility. Alumni highlighted the rigorous curriculum and practical skills development, valuing the program's focus on real-world projects and experiential training. Graduates also emphasized improved time management, problem-solving, collaboration skills, and increased confidence in having difficult conversations, signifying the program's substantial impact on their professional growth.</p>
       <p>MLO: Top competencies identified: building effective teams, process management, and decision quality. Graduates commended the program's focus on diversity, equity, inclusion (DEI), its flexible and relevant structure, and the lifelong impact it has on their skill development.  </p>
+      <br></br>
+      <p className='title'> Figure 1. All: What competencies did you aquire in LOP/MLO program?</p>
       <img src={comp} alt="Competencies provided" />
       <h4>Weaknesses</h4>
       <p>While numerous strengths fortify the LOP and MLO programs, combined input from survey participants point to two key areas for improvement: innovation management and decision quality.</p>
@@ -68,6 +70,9 @@ function ExecutiveSummary() {
       <p>MLO: Graduates identified a gap in the competency of dealing with ambiguity and noted an in-class disparity in the level of students' work experience, suggesting the need for course prerequisites. Feedback also highlighted the necessity for faculty to better engage with experienced students and a desire for a balanced curriculum, focusing more on leadership, organizational development, and conflict management, all strengths of the LOP program.
 </p>
       <p>Across both programs, respondents cited the need for more rigorous academic standards, internship support, enhanced networking opportunities, innovation and DEI-focus. </p>
+      <br></br>
+      <p className='title'> Figure 2. All: What competencies did not provided that you are lacking in LOP/MLO program?</p>
+      
       <img src={no_comp} alt="Competencies not provide" />
     <h4>Opportunities</h4>
     <p>Shifts in the professional landscape and the introduction of new workforce trends present ample opportunities for growth and refinement of both programs. Key areas include: automation, AI, hybrid work modes, data-driven decision-making, digital literacy, and an elevated focus on diversity, equity, and inclusion (DEI). These trends necessitate a revisit of existing competencies along with an exploration of competencies to be added.
